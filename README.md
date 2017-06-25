@@ -6,15 +6,15 @@ Automatizando Tarefas com Bash Script
 
 ## O que é Bash?
 
-* Bourne Again Shell
+* **Bourne Again Shell**
 
-* Uma implementação do Shell
+* **Uma implementação do Shell**
 
-* Sh(Bourne Shell) melhorado
+* **Sh(Bourne Shell) melhorado**
 
-* Comandos interativos/programação
+* **Comandos interativos/programação**
 
-* Programação tipo LEGO
+* **Programação tipo LEGO**
 
-* Comando3=Comando1+Comando2
+* **Comando3=Comando1+Comando2**
 
