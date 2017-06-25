@@ -17,4 +17,15 @@ Automatizando Tarefas com Bash Script
 * **Programação tipo LEGO**
 
 * **Comando3=Comando1+Comando2**
+<br>
+
+## Help/Ajuda
+
+* **Whatis command**
+
+* **command --help**
+
+* **man command**
+
+* **Apropos keyword**
 
